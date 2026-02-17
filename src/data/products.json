@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Gamer",
+    "description": "RTX 4060",
+    "code": "LG123",
+    "price": 1200,
+    "status": true,
+    "stock": 10,
+    "category": "Tecnologia",
+    "thumbnails": [
+      "img1.jpg"
+    ]
+  }
+]
